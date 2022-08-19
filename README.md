@@ -1,7 +1,7 @@
 # caixa_eletronico
  
-Bem-vindos ao meu projeto de Caixa Eletrônico moderno. O arquivo Principal.py traz a conexão com várias janelas e com o banco de dados Projeto.sql.
-
+Bem-vindos ao meu projeto de Caixa Eletrônico moderno. O arquivo Principal.py traz a conexão com várias janelas e com o banco de dados Projeto.sql
+![caixa](caixa.png)
 Resumo: O programa oferece as opções de cadastrar conta e depósito na primeira janela, oferece a opção de entrar na conta também, e quando entra na conta há as opções de saque, transferência, ver saldo, extrato e opções pix. Nas opções pix temos as opções de cadastrar chave pix, ver as chaves já cadastradas e transferência com pix. Na opção de cadastrar chave pix também pode escolher entre celular, cpf, ou email. Tudo isso armazenando as contas e transações.
 
 Projeto explicado passo a passo:
